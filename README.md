@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Tintin72
+njengamartin72@gmail.com
 <!--
 **Tintin72/Tintin72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
