@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello, I'm Tintin72
+## Hi there 👋
+Hello, I'm **Martin Njenga**
 
 Reach me via njengamartin72@gmail.com
 <!--
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Tintin72's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinitin72)](https://github.com/anuraghazra/github-readme-stats)
