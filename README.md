@@ -1,5 +1,4 @@
-## Hi there 👋
-Hello, I'm **Martin Njenga**
+## 😎 Hello, I'm **Martin Njenga**
 
 Reach me via njengamartin72@gmail.com
 <!--
