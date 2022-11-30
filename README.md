@@ -16,7 +16,7 @@
 
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 - 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=green)
-![linux](https://img.shields.io/badge/-linux-000?&logo=linux)
+![linux](https://img.shields.io/badge/-linux-000?&logo=linux)![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 
 
 
