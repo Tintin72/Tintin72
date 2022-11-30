@@ -13,7 +13,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&logoColor=#4FC08D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=blue&color=white)
-- I am currently learning ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust&color=white)
+- I am currently learning ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 - 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=green)
