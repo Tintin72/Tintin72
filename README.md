@@ -10,13 +10,13 @@
 - 📚 Languages ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue&logoColor=#4FC08D)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&logoColor=#4FC08D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=blue&color=white)
 
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 - 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=green)
-![linux](https://img.shields.io/badge/-linux-000?&logo=linux)![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)![Django](https://img.shields.io/badge/-Django-000?&logo=django)![Mongodb](https://img.shields.io/badge/-Mongo-000?&logo=mongodb&logoColor=#47A248)![GraphQl](https://img.shields.io/badge/-GraphQl-000?&logo=GraphQl&logoColor=#E10098)
+![linux](https://img.shields.io/badge/-linux-000?&logo=linux)![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)![Django](https://img.shields.io/badge/-Django-000?&logo=django)![Mongodb](https://img.shields.io/badge/-Mongo-000?&logo=mongodb&logoColor=#47A248)![GraphQl](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL&logoColor=#E10098)
 
 ## :octocat: My Interests and future prospects in tech... 
 - Machine Learning & AI ⚛️
