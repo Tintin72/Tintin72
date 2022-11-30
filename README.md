@@ -12,10 +12,11 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=blue)
 
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
-- 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+- 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)![Nginx](https://img.shields.io/badge/-Docker-000?&logo=Nginx)
+![linux](https://img.shields.io/badge/-linux-000?&logo=linux)
 
 
 
