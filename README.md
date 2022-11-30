@@ -38,5 +38,5 @@
 <!-- [looney [MConverter.eu].webm](https://user-images.githubusercontent.com/32560913/204561473-79121b9d-697c-4ece-8ff9-df6515b16294.webm) -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tintin72&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tintin72&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 <!-- ![text](https://user-images.githubusercontent.com/32560913/204735723-e19bb0c4-ebca-470b-b339-4905d49d737e.gif) -->
