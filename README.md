@@ -16,16 +16,22 @@
 
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 - 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx&logoColor=green)
-![linux](https://img.shields.io/badge/-linux-000?&logo=linux)![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)![Django](https://img.shields.io/badge/-Django-000?&logo=django)
+![linux](https://img.shields.io/badge/-linux-000?&logo=linux)![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)![Django](https://img.shields.io/badge/-Django-000?&logo=django)![Nuxt](https://img.shields.io/badge/-Nuxt-000?&logo=Nuxt&logoColor=green)![Next](https://img.shields.io/badge/-Next-000?&logo=Next)
+
+## :octocat: My Interests and future prospects in tech... 
+- Machine Learning & AI ⚛️
+- Blockchain ⛓️
+- Data Analysis 📈
 
 
-
+## 📱 Get in touch with me
+- Reach out to me via [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:njengamartin72@gmail.com)[![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Kinaro_M)[![LinkedIn](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/martinkinaro/)
 
 
 
 <!-- ![kinaro](https://user-images.githubusercontent.com/32560913/204730816-25e6cb5f-1b20-433f-93ca-894fe2b2afdf.gif) -->
 
-Reach me via njengamartin72@gmail.com
+<!-- Reach me via njengamartin72@gmail.com -->
 
 <!-- ![bloggif_6387079ee7e88](https://user-images.githubusercontent.com/32560913/204735038-e09845d6-b2ed-4c6b-b724-eab796ce8ee5.gif) -->
 
