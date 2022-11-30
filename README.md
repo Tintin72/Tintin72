@@ -25,7 +25,7 @@
 
 
 ## 📱 Get in touch with me
-- Reach out to me via [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:njengamartin72@gmail.com)  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Kinaro_M)  [![LinkedIn](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/martinkinaro/)
+- Reach out to me via [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=ffffff)](mailto:njengamartin72@gmail.com)  [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/Kinaro_M)  [![LinkedIn](https://img.shields.io/badge/linkedin-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/martinkinaro/)
 
 
 
