@@ -10,10 +10,10 @@
 - 📚 Languages ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue&logoColor=007396)
+![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-<!-- ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C) -->
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=white)
+
 <!-- ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift) -->
 - 💼 Techonologies ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
