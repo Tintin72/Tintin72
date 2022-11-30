@@ -7,8 +7,15 @@
 
 ## 🤓 About Me
 - 💻 Full Stack Web Developer
-- 📚 Languages ![rust](https://user-images.githubusercontent.com/32560913/204742046-350fd9dd-418c-4a1c-8cc0-111dade37d15.svg)![vuejs](https://user-images.githubusercontent.com/32560913/204742096-5849972f-5a38-454a-ae68-5119e9826c2d.svg)![react](https://user-images.githubusercontent.com/32560913/204742112-324b42aa-d41d-477e-ac95-9cb4ebfb0322.svg)![Python](https://user-images.githubusercontent.com/32560913/204742186-9b621afd-5a4c-4eb9-affa-fb40f9c7a8fa.svg)![JS](https://user-images.githubusercontent.com/32560913/204742225-b058d84e-0224-4eb8-b3c5-c0e70a7f70de.svg)
-- 💼 Techonologies ![docker](https://user-images.githubusercontent.com/32560913/204742532-287f5371-b3d5-455c-92a3-b0b2ca152b8c.svg)![node-js](https://user-images.githubusercontent.com/32560913/204742555-c08aa958-6a80-4291-a98d-5be02ecee005.svg)![mysql](https://user-images.githubusercontent.com/32560913/204742609-916963e0-e004-47b5-944b-232350a7f58a.svg)
+- 📚 Languages ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+- 💼 Techonologies 
 
 
 
