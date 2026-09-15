@@ -3,14 +3,13 @@
 <!-- [<img src="[https://user-images.githubusercontent.com/32560913/204728333-2d1db6b2-40de-45a4-9d23-81ec43e3e937.gif](https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif)" alt="👋 Hi there! I'm ((Tintin|Martin Njenga)" title="👋 Hi there! I'm ((Tintin|Martin Njenga)"/>] -->
 <!-- ![hacker](https://user-images.githubusercontent.com/32560913/204728333-2d1db6b2-40de-45a4-9d23-81ec43e3e937.gif) -->
 
-*Software Engineer at Incourage*
+*Software Engineer*
 
 ## 🤓 About Me
 - 💻 Full Stack Web Developer
 - 📚 Languages ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=Vue.js&logoColor=#4FC08D)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=blue&color=white)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust) 
